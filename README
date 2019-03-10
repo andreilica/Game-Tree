@@ -1,3 +1,5 @@
+Game Tree
+A tic-tac-toe game using AND/OR tree, minimax algorithm.
 
 Codul este alcatuit din 11 functii si main. Functiile secundare sunt:
 	- o functie care este folosita pentru a verifica daca un arbore este NULL
