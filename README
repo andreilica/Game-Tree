@@ -1,0 +1,16 @@
+
+Codul este alcatuit din 11 functii si main. Functiile secundare sunt:
+	- o functie care este folosita pentru a verifica daca un arbore este NULL
+	- o functie care este folosita pentru a verifica pentru fiecare nod starea in care se afla
+	- o functie care este folosita pentru a elibera memoria alocata
+	- o functie care este folosita pentru a initializa si crea un nod
+	- o functie care este folosita pentru insera copii intr-un arbore
+	- o functie care este folosita pentru a returna valoarea de adevar a unei stari
+	- o functie care este folosita pentru a crea copiii arborelui
+	- o functie care este folosita pentru a crea arborele de joc
+	- o functie care este folosita pentru a afisa o matrice in fisierul de output
+	- o functie care este folosita pentru a afisa arborele in fisierul de output in functie de cerinta
+	- o functie care este folosita pentru cerinta 2 care creaza arborele SI/SAU
+	
+
+In main se realizeaza parsarea documentului de input si verificarea cerintei ce urmeaza a fi rezolvate, care este, mai apoi, transmis ca parametru functiilor care necesita cunoasterea acestuia. Apoi se creaza matricea de joc din fisierul de input si se creaza arborele de joc in functie de cerinta.
